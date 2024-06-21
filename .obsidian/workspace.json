@@ -123,6 +123,18 @@
             "id": "f184b627d24436c3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci samoorganizujace sie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99186a631d641b8d",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "b97f31551e2e7d71",
@@ -235,7 +247,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "co",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +264,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -329,8 +342,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f184b627d24436c3",
+  "active": "99186a631d641b8d",
   "lastOpenFiles": [
+    "Franek.md",
+    "Sieci samoorganizujace sie.md",
     "Ewolucja.md",
     "Algorytmy ewolucyjne.md",
     "Z Nadzorcą.md",
@@ -356,7 +371,6 @@
     "probabilistycze.md",
     "PNGs/Pasted image 20240621141928.png",
     "sumator.md",
-    "Sieci samoorganizujace sie.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
@@ -369,7 +383,6 @@
     "PNGs/Pasted image 20240620210321.png",
     "PNGs/Pasted image 20240620210246.png",
     "PNGs/Pasted image 20240620210122.png",
-    "Unipolarna.md",
     "PNGs/Pasted image 20240620165304.png"
   ]
 }
