@@ -1,0 +1,1 @@
+### Nieprecyzyjna komunikacja między ludźmi

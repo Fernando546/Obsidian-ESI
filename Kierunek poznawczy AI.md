@@ -1,0 +1,2 @@
+Próba zrozumienia istoty inteligencji poprzez badanie własności maszyn
+inteligentnych
