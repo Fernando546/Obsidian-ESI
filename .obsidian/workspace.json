@@ -135,6 +135,66 @@
             "id": "99186a631d641b8d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci neuronowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8515bc6d77c08012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci neuronowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25d0e97944240970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci neuronowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cb28913528716ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy uczenia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dff2ed74fa4be335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy uczenia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "091262ad4af01e52",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -200,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       },
       {
         "id": "b97f31551e2e7d71",
@@ -247,7 +307,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "co",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,8 +324,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -342,47 +401,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99186a631d641b8d",
+  "active": "091262ad4af01e52",
   "lastOpenFiles": [
-    "Franek.md",
-    "Sieci samoorganizujace sie.md",
-    "Ewolucja.md",
-    "Algorytmy ewolucyjne.md",
-    "Z Nadzorcą.md",
+    "Perceptron.md",
+    "PNGs/Pasted image 20240622151111.png",
+    "PNGs/Pasted image 20240622151130.png",
+    "PNGs/Pasted image 20240622151136.png",
+    "KompresjaDanych.md",
+    "PNGs/Pasted image 20240622151406.png",
+    "PNGs/Pasted image 20240622151359.png",
+    "AlgorytmPropagacjiWstecznej.md",
+    "PNGs/Pasted image 20240622151259.png",
+    "PNGs/Pasted image 20240622151253.png",
+    "PNGs/Pasted image 20240622151247.png",
+    "PNGs/Pasted image 20240622151237.png",
+    "PNGs/Pasted image 20240622151218.png",
+    "Algorytmy uczenia.md",
+    "GradientowyAlgorytmNajwieszegoSpadku.md",
+    "Untitled.canvas",
+    "Sieci neuronowe.md",
+    "klasyczny algorytm genetyczny.md",
+    "Atrakcyjnosc-siecineuronowej.md",
     "Systemy eksperdskie.md",
     "Logika rozmyta.md",
-    "Sieci neuronowe.md",
+    "Sieci GMDH.md",
+    "Untitled.md",
+    "Inteligencja.md",
+    "Funkcja aktywacji.md",
+    "Bipolarna.md",
+    "Unipolarna.md",
+    "Inspieracja biologiczna.md",
+    "Algorytmy ewolucyjne.md",
+    "Ewolucja.md",
+    "Franek.md",
+    "Sieci samoorganizujace sie.md",
+    "Z Nadzorcą.md",
     "Sieci jednokierunkowe.md",
-    "PNGs/Pasted image 20240621162406.png",
-    "PNGs/Pasted image 20240621162037.png",
     "Kierunek poznawczy AI.md",
     "Kierunek techniczny AI.md",
-    "Słaba sztuczna inteligencja.md",
-    "Silna sztuczna inteligencja.md",
-    "Sztuczna inteligencja.md",
-    "Inteligencja.md",
-    "Rodzaje inteligencji.md",
-    "Inspieracja biologiczna.md",
-    "PNGs/Pasted image 20240621160153.png",
-    "PNGs/Pasted image 20240621160111.png",
-    "Sieci rekurencyjne.md",
-    "Perceptron.md",
-    "Struktury.md",
-    "probabilistycze.md",
-    "PNGs/Pasted image 20240621141928.png",
-    "sumator.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Podział informacji - ESI.md",
-    "PNGs",
-    "Typy uczenia.md",
-    "siec Hopfielda.md",
-    "PNGs/Pasted image 20240620211052.png",
-    "Funkcja aktywacji.md",
-    "PNGs/Pasted image 20240620210321.png",
-    "PNGs/Pasted image 20240620210246.png",
-    "PNGs/Pasted image 20240620210122.png",
-    "PNGs/Pasted image 20240620165304.png"
+    "PNGs"
   ]
 }
